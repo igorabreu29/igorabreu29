@@ -1,4 +1,4 @@
-### Olá, Eu sou o Igor Abreu!
+### Olá, eu sou o Igor Abreu!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igorabreu_29)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-abreu29)
